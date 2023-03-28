@@ -1,3 +1,7 @@
+# Mailspring Aura Theme
+
+A theme for [Mailspring](https://www.getmailspring.com) based on [Aura Theme](https://github.com/daltonmenezes/aura-theme)
+
 # Mailspring Theme Starter
 
 The Mailspring Theme Starter is a basic starting point for creating a theme for
